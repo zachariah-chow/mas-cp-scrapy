@@ -128,7 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# JSON scraped local data
+# JSON and CSV scraped local data
 .json
+.csv
 
 
